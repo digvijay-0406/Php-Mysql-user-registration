@@ -125,7 +125,7 @@ $conn = new mysqli("localhost", "root", "your_password", "login");
 
 ---
 
-## ⚙️ Step 8: PHP Backend (insert.php)
+## ⚙️ Step 8: PHP Backend (index.php)
 
 * Collected form data using `$_POST`
 * Inserted data into database using SQL query
